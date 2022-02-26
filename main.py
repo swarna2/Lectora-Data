@@ -15,4 +15,3 @@ with open(f'posts/Data.txt', 'w') as f:
     f.write(f"Keywords: {Keywords.strip()} \n")
     f.write(f"Abstract: {Abstract.strip()} \n")
     f.write(f"Issue Number: {Issue_Number.strip()} \n")
-
